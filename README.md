@@ -1,1 +1,1 @@
-# TechnicalProposals
+# Technical Proposals
